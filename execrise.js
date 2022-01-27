@@ -1,3 +1,5 @@
 const dirTree = require("directory-tree")
-const tree = dirTree('./bajajworkshop/')
-console.log(tree);
+const one = dirTree('./Filehandle/')
+const two = dirTree('./book/')
+console.log(one)
+console.log(two)
